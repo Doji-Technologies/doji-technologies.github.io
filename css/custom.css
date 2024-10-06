@@ -1,0 +1,9 @@
+.imprint-link {
+  font-size: 0.8rem; /* Smaller font size */
+  color: #666; /* Lighter color for less emphasis */
+  text-decoration: none; /* Remove underline */
+}
+
+.imprint-link:hover {
+  color: #999; /* Slightly change color on hover */
+}
